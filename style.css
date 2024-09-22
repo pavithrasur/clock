@@ -1,0 +1,49 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url("https://4vector.com/i/free-vector-blue-new-year-background-vector_016197_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: black;
+    font-size: 30px;
+    font-family: Comic Sans MS ;
+    font-style: oblique;
+}
+.time
+{
+    display: flex;
+}
+.days
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 15px;
+}
+small
+{
+    font-size: 40px;
+ 
+}
+.ap
+{
+    position: relative;
+   font-size: 50px;
+    transform: translateX(20px);
+    margin-top: 30px;
+    
+}
+body h1
+{
+    color: beige;
+}
